@@ -1,0 +1,20 @@
+{
+  "name": "blog-api-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple Node Js blog Api boilerplate using Mongoose, fastify and boom js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prince J. Sargbah",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^2.3.0",
+    "fastify-swagger": "^2.3.2",
+    "mongoose": "^5.5.5",
+    "nodemon": "^1.18.11"
+  }
+}
