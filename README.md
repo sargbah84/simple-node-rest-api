@@ -10,7 +10,7 @@ This sample rest api project should be easily cloned, installed all node package
 
 ``` 
 //on local
-git clone https://github.com/zowe/sample-node-api
+git clone https://github.com/sargbah84/sample-node-api
 cd sample-node-api
 npm install
 npm start
